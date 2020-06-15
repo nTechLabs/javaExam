@@ -1,4 +1,4 @@
-package com.ntech.javaEam;
+package com.ntech.javaEx;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

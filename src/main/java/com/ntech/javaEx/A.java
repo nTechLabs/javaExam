@@ -1,4 +1,4 @@
-package com.ntech.javaEam;
+package com.ntech.javaEx;
 
 import lombok.Data;
 

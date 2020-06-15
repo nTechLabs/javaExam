@@ -1,4 +1,4 @@
-package com.ntech.javaEam;
+package com.ntech.javaEx;
 
 public class B implements X{
 	public int total(){
